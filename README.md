@@ -29,3 +29,7 @@ with this program you can:
 ## Made by
 
 [Adoniyas Getachew](https://github.com/Adoniyas7/)
+
+## License
+
+Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
