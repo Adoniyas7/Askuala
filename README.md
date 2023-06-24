@@ -1,6 +1,6 @@
 ## ASKUALA
 
-A simple student registration system made with python and tkinter.
+A simple student registration system made with python and tkinter with sqlite3 database for storing data.
 
 ## Screenshots
 
