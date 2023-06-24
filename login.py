@@ -35,7 +35,9 @@ window = Tk()
 
 window.geometry("1012x506")
 #remove the title bar
-window.wm_attributes('-type', 'splash')
+# window.wm_attributes('-type', 'splash')
+
+window.title("Askuala Login")
 
 
 canvas = Canvas(
